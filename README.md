@@ -4,13 +4,16 @@
 ## Overview
 This project features a series of interactive dashboards created using Tableau, designed to analyze the **global_superstore_2016** dataset. The dashboards provide comprehensive insights into various aspects of sales performance, including profits, categories, segments, and overall trends.
 
-## Dashboards
+## View the Visualizations
+You can explore all of my Tableau visualizations on my Tableau Public profile: [Reut Lev on Tableau Public](https://public.tableau.com/app/profile/reut.lev/vizzes).
 
-### Overall Dashboard
-<img src="https://github.com/user-attachments/assets/2fd9ae8e-15fd-4d92-afb0-3d372c10479d" alt="Overall Dashboard" width="600"/>
+## Dashboards
 
 ### Detail Dashboard
 <img src="https://github.com/user-attachments/assets/a5ca3d08-78fe-41e3-857e-a0c7859f7b4f" alt="Detail Dashboard" width="600"/>
+
+### Overall Dashboard
+<img src="https://github.com/user-attachments/assets/2fd9ae8e-15fd-4d92-afb0-3d372c10479d" alt="Overall Dashboard" width="600"/>
 
 ### Profit by Sub-Category
 <img src="https://github.com/user-attachments/assets/562c0a69-8bb2-4e9c-9830-e49c61d3e8bd" alt="Profit by Sub-Category" width="600"/>
@@ -30,8 +33,7 @@ This project features a series of interactive dashboards created using Tableau, 
 ### Population Dashboard
 <img src="https://github.com/user-attachments/assets/e8f61160-eeae-468b-af4c-2ec3b3e9537b" alt="Population Dashboard" width="600"/>
 
-## View the Visualizations
-You can explore all of my Tableau visualizations on my Tableau Public profile: [Reut Lev on Tableau Public](https://public.tableau.com/app/profile/reut.lev/vizzes).
+
 
 
 ## Features
